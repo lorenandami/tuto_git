@@ -1,1 +1,2 @@
-SELECT * FROM Factures;
+SELECT * FROM Factures
+LIMIT 10;
